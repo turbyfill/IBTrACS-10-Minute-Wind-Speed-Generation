@@ -41,4 +41,4 @@ The original script that this work is based on can be found at:
 Place the `holland_model.py` in the same directory as the main script. Ensure that the necessary data files are in the correct format and location as expected by the script. Run the main script using Python:
 
 ```bash
-python master.py
+MASTER.py
