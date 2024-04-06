@@ -1,5 +1,5 @@
 """
-The script has been developed by Trent Turbyfill and Dennis Wagenaar. 
+The script has been developed by Trent Turbyfill with the oversight of Dr. Dennis Wagenaar. 
 This script is the master program complementary to holland_model.py. 
 
 The script is an derived from: 
