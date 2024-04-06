@@ -28,6 +28,8 @@ The original script that this work is based on can be found at:
 
 - [https://github.com/NBloemendaal/STORM-return-periods/blob/master/masterprogram.py](https://github.com/NBloemendaal/STORM-return-periods/blob/master/masterprogram.py)
 
+which is licensed under the GNU General Public License v3.0.
+
 ## Dependencies
 
 - Python
