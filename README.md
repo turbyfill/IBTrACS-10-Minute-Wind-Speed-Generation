@@ -34,7 +34,7 @@ The original script that this work is based on can be found at:
 - Pandas
 - NumPy
 - SciPy
-- holland_model.py (should be placed in the same directory)
+- holland_model.py: https://github.com/NBloemendaal/STORM-return-periods/blob/master/holland_model.py 
 
 ## Usage
 
