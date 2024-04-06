@@ -2,7 +2,7 @@
 
 ## Description
 
-The script included in this repository is a master program that complements the `holland_model.py`. It processes tropical cyclone track data to estimate wind speeds across different geographic regions. Specifically, the script accepts data from the International Best Track Archive for Climate Stewardship (IBTrACS) and applies the Holland model to estimate wind speeds.
+The script included in this repository is a master program that complements the `holland_model.py`. It processes tropical cyclone track data to estimate wind speeds across different geographic regions. Specifically, the script accepts data from the International Best Track Archive for Climate Stewardship (IBTrACS) and applies the Holland model to estimate 10 minute wind speeds.
 
 ### What the Script Does
 
